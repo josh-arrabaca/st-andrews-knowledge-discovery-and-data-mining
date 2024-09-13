@@ -1,0 +1,1 @@
+This folder contains a coursework submission for St Andrews' ID5059 (Knowledge Discovery and Data Mining). To view the the submission, click here: https://github.com/josh-arrabaca/st-andrews-knowledge-discovery-and-data-mining/blob/main/ID5059-Assessment-1-Report.pdf.
